@@ -1,0 +1,6 @@
+- Perform authentication in the API above;
+- Persist login (`access_token`) via `AsyncStorare`;
+- Have a nested navigation with `NavigationDrawer` (and other browsers you find interesting):
+   - Logout button must be in `NavigationDrawer`;
+- Use interface elements from the React Native Elements library;
+- Perform requests on the API above to present data from the logged in user.
